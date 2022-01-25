@@ -1,4 +1,7 @@
 {
+	"author": "zayd adams",
+	"description": "first freecodecamp course",
+	"keywords": ["freecodecamp","firstcode"],
 	"name": "fcc-learn-node-with-express",
 	"version": "0.1.0",
 	"dependencies": {
